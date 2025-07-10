@@ -1,0 +1,138 @@
+Sistema Integrado Bot OAB + Supabase
+Iniciado em: 09/07/2025 17:47:47
+============================================================
+
+[17:47:47] Conexão Supabase estabelecida
+[17:47:47] Bot OAB inicializado
+[17:47:47] Iniciando processamento completo
+[17:47:49] Status tabela: {"total": 466, "pendentes": 165, "preenchidos": 288, "erros": 13, "taxa_preenchimento": 61.80257510729614}
+[17:47:49] Iniciando processamento de lote (limite: 100)
+[17:47:55] Processando registro c263371b-c5fd-4570-9c47-e2bf0543e2b1: SP274188
+[17:48:11] SUCESSO: Registro c263371b-c5fd-4570-9c47-e2bf0543e2b1 processado
+[17:48:13] Processando registro 50f51ec2-6b77-40c0-94e2-10319e06105c: SP274188
+[17:48:28] SUCESSO: Registro 50f51ec2-6b77-40c0-94e2-10319e06105c processado
+[17:48:30] Processando registro 0ed37528-c6bd-4b98-8414-9cf986186dc6: SP279996
+[17:48:45] SUCESSO: Registro 0ed37528-c6bd-4b98-8414-9cf986186dc6 processado
+[17:48:47] Processando registro 6fc3a446-1d2f-404c-b8b1-844f5b55f6da: GO032080
+[17:48:52] ERRO: Falha ao processar registro 6fc3a446-1d2f-404c-b8b1-844f5b55f6da
+[17:48:54] Processando registro 0933d6c8-66b5-4fab-a5e1-832d0ccf0cd7: GO032080
+[17:49:00] ERRO: Falha ao processar registro 0933d6c8-66b5-4fab-a5e1-832d0ccf0cd7
+[17:49:02] Processando registro b874335b-9a97-4804-81cd-1618625fb3f7: SP279996
+[17:49:17] SUCESSO: Registro b874335b-9a97-4804-81cd-1618625fb3f7 processado
+[17:49:19] Processando registro d24a25d6-7117-4579-9da7-792589488ef8: GO032080
+[17:49:25] ERRO: Falha ao processar registro d24a25d6-7117-4579-9da7-792589488ef8
+[17:49:27] Processando registro 421ab1c2-ff68-421a-b95b-4c72eb4dc6a3: GO032080
+[17:49:33] ERRO: Falha ao processar registro 421ab1c2-ff68-421a-b95b-4c72eb4dc6a3
+[17:49:35] Processando registro a07a862b-67a8-4ffe-9ce4-09f498cc7520: SP452967
+[17:49:50] SUCESSO: Registro a07a862b-67a8-4ffe-9ce4-09f498cc7520 processado
+[17:49:52] Processando registro b23c53d3-111c-4173-8b18-92560eee6542: GO032080
+[17:49:58] ERRO: Falha ao processar registro b23c53d3-111c-4173-8b18-92560eee6542
+[17:50:00] Processando registro 4b5b1350-0964-4288-ab1e-c6496f4d23df: GO032080
+[17:50:06] ERRO: Falha ao processar registro 4b5b1350-0964-4288-ab1e-c6496f4d23df
+[17:50:08] Processando registro 29b455b6-1411-4617-94dc-6d788b27b1c5: SP505786
+[17:50:24] SUCESSO: Registro 29b455b6-1411-4617-94dc-6d788b27b1c5 processado
+[17:50:26] Processando registro 77b9d175-8a9a-4f4a-a0dc-4508e1f547f2: SP505786
+[17:50:40] SUCESSO: Registro 77b9d175-8a9a-4f4a-a0dc-4508e1f547f2 processado
+[17:50:42] Processando registro f786c431-a516-4e67-960e-571cec8e55db: SP452967
+[17:50:57] SUCESSO: Registro f786c431-a516-4e67-960e-571cec8e55db processado
+[17:50:59] Processando registro 1a0e49fa-88be-4959-a1a4-74324ee22b37: SP452967
+[17:51:14] SUCESSO: Registro 1a0e49fa-88be-4959-a1a4-74324ee22b37 processado
+[17:51:16] Processando registro 748dd0e8-cd65-4198-85da-b4292dae756b: SP279996
+[17:51:31] SUCESSO: Registro 748dd0e8-cd65-4198-85da-b4292dae756b processado
+[17:51:33] Processando registro f0a3b479-72c9-4399-84b3-6e09baadbb56: SP452967
+[17:51:48] SUCESSO: Registro f0a3b479-72c9-4399-84b3-6e09baadbb56 processado
+[17:51:50] Processando registro 0971bcfa-2480-4aff-b09e-9fd8df0b4ef2: SP436548
+[17:52:06] SUCESSO: Registro 0971bcfa-2480-4aff-b09e-9fd8df0b4ef2 processado
+[17:52:08] Processando registro 316804f5-9023-4024-b55c-df7a23cbf82e: SP436548
+[17:52:24] SUCESSO: Registro 316804f5-9023-4024-b55c-df7a23cbf82e processado
+[17:52:26] Processando registro a7ccaa71-7fab-464a-bded-be11f0b43ab8: SP436548
+[17:52:41] SUCESSO: Registro a7ccaa71-7fab-464a-bded-be11f0b43ab8 processado
+[17:52:43] Processando registro f6b48f6f-c9f4-47f6-8ee8-8634d74ea46b: SP210756
+[17:52:59] SUCESSO: Registro f6b48f6f-c9f4-47f6-8ee8-8634d74ea46b processado
+[17:53:01] Processando registro 6f936068-64a7-4b03-a5f1-0872b99aefdb: SP274188
+[17:53:16] SUCESSO: Registro 6f936068-64a7-4b03-a5f1-0872b99aefdb processado
+[17:53:18] Processando registro 8d15496f-0076-473a-8bdf-2be966c2d20f: SP435083
+[17:53:34] SUCESSO: Registro 8d15496f-0076-473a-8bdf-2be966c2d20f processado
+[17:53:36] Processando registro aa997200-6797-4b8d-baee-2c7117dc4dc5: SP435083
+[17:53:50] SUCESSO: Registro aa997200-6797-4b8d-baee-2c7117dc4dc5 processado
+[17:53:52] Processando registro 6d4dbe93-6f3d-495a-9e26-f8c77868be03: SP279996
+[17:54:08] SUCESSO: Registro 6d4dbe93-6f3d-495a-9e26-f8c77868be03 processado
+[17:54:08] Resultado intermediário salvo em: Pesquisa/intermediario_20250709_175408.json
+[17:54:10] Processando registro 86bed2e6-da40-4dfa-af24-d926b28bd4db: SP274188
+[17:54:25] SUCESSO: Registro 86bed2e6-da40-4dfa-af24-d926b28bd4db processado
+[17:54:27] Processando registro 0d899135-5e20-4343-814e-3c0839994a13: SP274188
+[17:54:43] SUCESSO: Registro 0d899135-5e20-4343-814e-3c0839994a13 processado
+[17:54:45] Processando registro 63282deb-75ef-414b-b3f5-cea8d450a4d3: SP274188
+[17:55:00] SUCESSO: Registro 63282deb-75ef-414b-b3f5-cea8d450a4d3 processado
+[17:55:02] Processando registro 9648c2c8-ac84-4c10-9c73-be84db720cc3: SP274188
+[17:55:18] SUCESSO: Registro 9648c2c8-ac84-4c10-9c73-be84db720cc3 processado
+[17:55:20] Processando registro 6b0be7e0-4400-4c25-8f59-ede889739a09: SP210756
+[17:55:34] SUCESSO: Registro 6b0be7e0-4400-4c25-8f59-ede889739a09 processado
+[17:55:36] Processando registro 5f8b2e00-df0a-4aed-85e3-b9c01d52cfd6: SP210756
+[17:55:52] SUCESSO: Registro 5f8b2e00-df0a-4aed-85e3-b9c01d52cfd6 processado
+[17:55:54] Processando registro 2022bfd7-435a-4b6f-b2a3-afc0744ea7ba: SP299902
+[17:56:10] SUCESSO: Registro 2022bfd7-435a-4b6f-b2a3-afc0744ea7ba processado
+[17:56:12] Processando registro ada33a66-1930-4019-a3e5-866035e69b65: SP299902
+[17:56:27] SUCESSO: Registro ada33a66-1930-4019-a3e5-866035e69b65 processado
+[17:56:29] Processando registro 13ce39f6-3c96-4c95-909e-53028ed98c23: SP279996
+[17:56:45] SUCESSO: Registro 13ce39f6-3c96-4c95-909e-53028ed98c23 processado
+[17:56:47] Processando registro db97b79a-2269-4611-8da5-a19937dec1c5: SP517010
+[17:57:02] SUCESSO: Registro db97b79a-2269-4611-8da5-a19937dec1c5 processado
+[17:57:04] Processando registro 03e4fb7e-1e3d-4544-841e-ea1469c26b33: SP517010
+[17:57:20] SUCESSO: Registro 03e4fb7e-1e3d-4544-841e-ea1469c26b33 processado
+[17:57:22] Processando registro 5952e0d2-459e-4fd2-90c6-ee0bd0c06ee3: SP435083
+[17:57:37] SUCESSO: Registro 5952e0d2-459e-4fd2-90c6-ee0bd0c06ee3 processado
+[17:57:39] Processando registro c7123501-2159-4b37-ae8e-bd230c347583: SP435083
+[17:57:55] SUCESSO: Registro c7123501-2159-4b37-ae8e-bd230c347583 processado
+[17:57:57] Processando registro 6a469c6f-4569-41ce-b6ed-7c88dba05b7f: SP435083
+[17:58:12] SUCESSO: Registro 6a469c6f-4569-41ce-b6ed-7c88dba05b7f processado
+[17:58:14] Processando registro 57750a98-fb04-446f-be90-9160d487174f: SP435083
+[17:58:30] SUCESSO: Registro 57750a98-fb04-446f-be90-9160d487174f processado
+[17:58:32] Processando registro 9dde9e59-c76f-46f7-b2c2-37d1fed619da: SP320121
+[17:58:47] SUCESSO: Registro 9dde9e59-c76f-46f7-b2c2-37d1fed619da processado
+[17:58:49] Processando registro a610bea6-7162-4461-aad2-66f3d9e03385: SP299902
+[17:59:05] SUCESSO: Registro a610bea6-7162-4461-aad2-66f3d9e03385 processado
+[17:59:07] Processando registro 573873a0-ca73-4a7a-bf3d-9a0e4fa88c81: SP452967
+[17:59:23] SUCESSO: Registro 573873a0-ca73-4a7a-bf3d-9a0e4fa88c81 processado
+[17:59:25] Processando registro 8441852a-8220-469b-b5be-708737ab8501: SP133046
+[17:59:40] SUCESSO: Registro 8441852a-8220-469b-b5be-708737ab8501 processado
+[17:59:42] Processando registro d3ee361c-f71e-497e-8937-4dc2df0a6aed: SP299902
+[17:59:58] SUCESSO: Registro d3ee361c-f71e-497e-8937-4dc2df0a6aed processado
+[18:00:00] Processando registro 37924b91-f2c3-48b1-b6ea-b3e9655a975d: SP299902
+[18:00:15] SUCESSO: Registro 37924b91-f2c3-48b1-b6ea-b3e9655a975d processado
+[18:00:17] Processando registro 2b2156b5-57b3-4686-88de-2228a00ccea4: SP299902
+[18:00:33] SUCESSO: Registro 2b2156b5-57b3-4686-88de-2228a00ccea4 processado
+[18:00:35] Processando registro f4c14ece-9e87-4f58-804e-4b2de97a4729: SP274188
+[18:00:50] SUCESSO: Registro f4c14ece-9e87-4f58-804e-4b2de97a4729 processado
+[18:00:52] Processando registro 77723c0d-1915-4d35-8561-177d62fc65a6: SP133046
+[18:01:08] SUCESSO: Registro 77723c0d-1915-4d35-8561-177d62fc65a6 processado
+[18:01:10] Processando registro f0df73c1-7344-4f86-b404-ae91362e6c26: SP452967
+[18:01:26] SUCESSO: Registro f0df73c1-7344-4f86-b404-ae91362e6c26 processado
+[18:01:26] Resultado intermediário salvo em: Pesquisa/intermediario_20250709_180126.json
+[18:01:28] Processando registro dc80269a-e5ee-4a1a-ac44-dbeb2d1e12f9: SP452967
+[18:01:43] SUCESSO: Registro dc80269a-e5ee-4a1a-ac44-dbeb2d1e12f9 processado
+[18:01:45] Processando registro f309e0b3-3d09-4975-a339-86fae4e31eb3: SP279996
+[18:02:01] SUCESSO: Registro f309e0b3-3d09-4975-a339-86fae4e31eb3 processado
+[18:02:03] Processando registro 048b7ac9-e63b-464c-aa01-314c251f0447: SP279996
+[18:02:18] SUCESSO: Registro 048b7ac9-e63b-464c-aa01-314c251f0447 processado
+[18:02:20] Processando registro 287225d2-b090-46d0-a776-d6b0879f6423: SP279996
+[18:02:36] SUCESSO: Registro 287225d2-b090-46d0-a776-d6b0879f6423 processado
+[18:02:38] Processando registro b9d419ad-056f-4b51-bd44-f188838fe2dc: SP279996
+[18:02:54] SUCESSO: Registro b9d419ad-056f-4b51-bd44-f188838fe2dc processado
+[18:02:56] Processando registro 79d4ccb2-9f77-48c9-a8c1-774b8cc387dc: SP279996
+[18:03:11] SUCESSO: Registro 79d4ccb2-9f77-48c9-a8c1-774b8cc387dc processado
+[18:03:13] Processando registro 8e135d1f-c054-43a3-bf18-b9dd4e56a352: SP279996
+[18:03:29] SUCESSO: Registro 8e135d1f-c054-43a3-bf18-b9dd4e56a352 processado
+[18:03:31] Processando registro e6612538-e5bb-4a8e-a3db-b4bfde661395: SP279996
+[18:03:45] SUCESSO: Registro e6612538-e5bb-4a8e-a3db-b4bfde661395 processado
+[18:03:47] Processando registro d764ab57-f81a-4ee3-9763-33dd257257d3: SP452967
+[18:04:03] SUCESSO: Registro d764ab57-f81a-4ee3-9763-33dd257257d3 processado
+[18:04:05] Processando registro dc97880b-6986-4feb-86e4-79497db8af96: SP133046
+[18:04:20] SUCESSO: Registro dc97880b-6986-4feb-86e4-79497db8af96 processado
+[18:04:22] Processando registro cdaf19ae-1a09-4c49-b6fb-00796da6a0cd: SP279996
+[18:04:38] SUCESSO: Registro cdaf19ae-1a09-4c49-b6fb-00796da6a0cd processado
+[18:04:38] Lote concluído: {"total": 61, "processados": 61, "sucessos": 55, "erros": 6, "tempo_inicio": 1752094075.3405058, "tempo_total": 1003.3012030124664, "taxa_sucesso": 90.1639344262295}
+[18:04:39] Status tabela: {"total": 466, "pendentes": 104, "preenchidos": 343, "erros": 19, "taxa_preenchimento": 73.60515021459227}
+[18:04:39] Resultado final salvo em: Pesquisa/final_20250709_180439.json
+[18:04:39] Status tabela: {"total": 466, "pendentes": 104, "preenchidos": 343, "erros": 19, "taxa_preenchimento": 73.60515021459227}
+[18:04:41] Sistema encerrado

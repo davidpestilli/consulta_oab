@@ -1,0 +1,14 @@
+Sistema Integrado Bot OAB + Supabase
+Iniciado em: 09/07/2025 10:14:04
+============================================================
+
+[10:14:05] Conexão Supabase estabelecida
+[10:14:05] Bot OAB inicializado
+[10:14:05] Iniciando processamento completo
+[10:14:07] Status tabela: {"total": 60, "pendentes": 60, "preenchidos": 0, "erros": 0, "taxa_preenchimento": 0.0}
+[10:14:07] Iniciando processamento de lote (limite: 100)
+[10:14:07] Nenhum registro pendente encontrado
+[10:14:07] Status tabela: {"total": 60, "pendentes": 60, "preenchidos": 0, "erros": 0, "taxa_preenchimento": 0.0}
+[10:14:07] Resultado final salvo em: Pesquisa/final_20250709_101407.json
+[10:14:07] Status tabela: {"total": 60, "pendentes": 60, "preenchidos": 0, "erros": 0, "taxa_preenchimento": 0.0}
+[10:14:07] Sistema encerrado

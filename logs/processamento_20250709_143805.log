@@ -1,0 +1,24 @@
+Sistema Integrado Bot OAB + Supabase
+Iniciado em: 09/07/2025 14:38:05
+============================================================
+
+[14:38:06] Conexão Supabase estabelecida
+[14:38:06] Bot OAB inicializado
+[14:38:06] Iniciando processamento completo
+[14:38:07] Status tabela: {"total": 318, "pendentes": 57, "preenchidos": 248, "erros": 13, "taxa_preenchimento": 77.9874213836478}
+[14:38:07] Iniciando processamento de lote (limite: 100)
+[14:38:12] Processando registro 9408f616-eac1-41be-8f56-089debd3a8f4: SP502180
+[14:38:29] SUCESSO: Registro 9408f616-eac1-41be-8f56-089debd3a8f4 processado
+[14:38:31] Processando registro dacec3e7-7b2c-4115-8d7e-bb1a1f80f276: SP502180
+[14:38:46] SUCESSO: Registro dacec3e7-7b2c-4115-8d7e-bb1a1f80f276 processado
+[14:38:48] Processando registro b6da9ca3-4de3-4579-95bb-c0fa8033b931: SP502180
+[14:39:03] SUCESSO: Registro b6da9ca3-4de3-4579-95bb-c0fa8033b931 processado
+[14:39:05] Processando registro 2dd6cd8b-e735-439b-a7cd-45e1ae7cee1f: SP502180
+[14:39:20] SUCESSO: Registro 2dd6cd8b-e735-439b-a7cd-45e1ae7cee1f processado
+[14:39:22] Processando registro d545825e-e06b-46ca-b1ea-df2ec6424870: SP390779
+[14:39:38] SUCESSO: Registro d545825e-e06b-46ca-b1ea-df2ec6424870 processado
+[14:39:38] Lote concluído: {"total": 5, "processados": 5, "sucessos": 5, "erros": 0, "tempo_inicio": 1752082692.647748, "tempo_total": 85.39178824424744, "taxa_sucesso": 100.0}
+[14:39:38] Status tabela: {"total": 318, "pendentes": 52, "preenchidos": 253, "erros": 13, "taxa_preenchimento": 79.55974842767296}
+[14:39:38] Resultado final salvo em: Pesquisa/final_20250709_143938.json
+[14:39:38] Status tabela: {"total": 318, "pendentes": 52, "preenchidos": 253, "erros": 13, "taxa_preenchimento": 79.55974842767296}
+[14:39:40] Sistema encerrado

@@ -1,0 +1,32 @@
+{
+  "timestamp": "10/07/2025 05:50:40",
+  "estatisticas": {
+    "lotes_processados": 1,
+    "total_registros": 24,
+    "total_sucessos": 0,
+    "total_erros": 24,
+    "tempo_inicio": 1752137247.3231328,
+    "tempo_total": 193.3967306613922,
+    "taxa_sucesso": 0.0
+  },
+  "status_inicial": {
+    "total": 677,
+    "pendentes": 216,
+    "preenchidos": 434,
+    "erros": 27,
+    "taxa_preenchimento": 64.10635155096011
+  },
+  "status_final": {
+    "total": 677,
+    "pendentes": 192,
+    "preenchidos": 434,
+    "erros": 51,
+    "taxa_preenchimento": 64.10635155096011
+  },
+  "config_utilizada": {
+    "timeout": 15,
+    "intervalo": 2,
+    "headless": true,
+    "tamanho_lote": 100
+  }
+}

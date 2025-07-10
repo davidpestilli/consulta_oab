@@ -1,0 +1,62 @@
+Sistema Integrado Bot OAB + Supabase
+Iniciado em: 10/07/2025 05:47:25
+============================================================
+
+[05:47:26] Conexão Supabase estabelecida
+[05:47:26] Bot OAB inicializado
+[05:47:26] Iniciando processamento completo
+[05:47:27] Status tabela: {"total": 677, "pendentes": 216, "preenchidos": 434, "erros": 27, "taxa_preenchimento": 64.10635155096011}
+[05:47:27] Iniciando processamento de lote (limite: 100)
+[05:47:34] Processando registro ffe7afe3-58c8-4528-b80c-02dabc602489: SP322865
+[05:47:39] ERRO: Falha ao processar registro ffe7afe3-58c8-4528-b80c-02dabc602489
+[05:47:41] Processando registro a808351a-9ac1-497b-81e6-6b3920fdc90a: SP322865
+[05:47:47] ERRO: Falha ao processar registro a808351a-9ac1-497b-81e6-6b3920fdc90a
+[05:47:49] Processando registro 7992d470-0dac-4ea1-b242-edee477ab7b4: SP228909
+[05:47:54] ERRO: Falha ao processar registro 7992d470-0dac-4ea1-b242-edee477ab7b4
+[05:47:56] Processando registro 4406e177-ff55-4d7d-908f-f1516a7e11ee: SP228909
+[05:48:01] ERRO: Falha ao processar registro 4406e177-ff55-4d7d-908f-f1516a7e11ee
+[05:48:03] Processando registro 035f622e-3b34-4cca-a934-7cf707f25328: SP228909
+[05:48:10] ERRO: Falha ao processar registro 035f622e-3b34-4cca-a934-7cf707f25328
+[05:48:12] Processando registro c31821ed-2c82-4f7d-9c83-2f4d575facc8: SP491684
+[05:48:18] ERRO: Falha ao processar registro c31821ed-2c82-4f7d-9c83-2f4d575facc8
+[05:48:20] Processando registro 6251ecc7-ecb2-4179-a849-f7a04e1ba995: SP530598
+[05:48:26] ERRO: Falha ao processar registro 6251ecc7-ecb2-4179-a849-f7a04e1ba995
+[05:48:28] Processando registro 88f25da8-0c4b-441b-a91d-b8e617d5bb23: SP172319
+[05:48:34] ERRO: Falha ao processar registro 88f25da8-0c4b-441b-a91d-b8e617d5bb23
+[05:48:36] Processando registro 9b7f4381-9eb0-4e35-a363-71b13ae4afdf: SP172319
+[05:48:41] ERRO: Falha ao processar registro 9b7f4381-9eb0-4e35-a363-71b13ae4afdf
+[05:48:43] Processando registro fabd2899-e4aa-4905-a56b-cfb27b3b81ea: SP172319
+[05:48:50] ERRO: Falha ao processar registro fabd2899-e4aa-4905-a56b-cfb27b3b81ea
+[05:48:52] Processando registro 7612ae8e-4ee7-4fba-a5cb-0764eb273d35: PR091282
+[05:48:58] ERRO: Falha ao processar registro 7612ae8e-4ee7-4fba-a5cb-0764eb273d35
+[05:49:00] Processando registro f79a9f69-bef1-4ed3-800b-d98a09747e1c: PR091282
+[05:49:06] ERRO: Falha ao processar registro f79a9f69-bef1-4ed3-800b-d98a09747e1c
+[05:49:08] Processando registro 11693545-0cf8-471a-8d60-3660c129ee46: SP228909
+[05:49:13] ERRO: Falha ao processar registro 11693545-0cf8-471a-8d60-3660c129ee46
+[05:49:15] Processando registro bbc69c74-b058-4203-8031-d09222153939: SP228909
+[05:49:22] ERRO: Falha ao processar registro bbc69c74-b058-4203-8031-d09222153939
+[05:49:24] Processando registro 171a3129-b087-46ad-9555-c19a015d0979: SP228909
+[05:49:29] ERRO: Falha ao processar registro 171a3129-b087-46ad-9555-c19a015d0979
+[05:49:31] Processando registro 1e15ae8a-c0ae-41d5-b163-b2f076bb5384: SP339879
+[05:49:37] ERRO: Falha ao processar registro 1e15ae8a-c0ae-41d5-b163-b2f076bb5384
+[05:49:39] Processando registro 570b6858-2d87-462a-a3af-4bbfb3e2f93b: SP460929
+[05:49:45] ERRO: Falha ao processar registro 570b6858-2d87-462a-a3af-4bbfb3e2f93b
+[05:49:47] Processando registro a6ed7732-91d9-4843-b149-947c76f0349c: SP145354
+[05:49:53] ERRO: Falha ao processar registro a6ed7732-91d9-4843-b149-947c76f0349c
+[05:49:55] Processando registro 30fa2944-ee55-447e-9ddb-cb37c73a37c6: SP442683
+[05:50:00] ERRO: Falha ao processar registro 30fa2944-ee55-447e-9ddb-cb37c73a37c6
+[05:50:02] Processando registro 6f482c68-fbfa-475d-9672-b75e47f74dd1: SP442683
+[05:50:09] ERRO: Falha ao processar registro 6f482c68-fbfa-475d-9672-b75e47f74dd1
+[05:50:11] Processando registro b563fd89-0e59-465c-81ce-1ef3a426ec32: SP442683
+[05:50:16] ERRO: Falha ao processar registro b563fd89-0e59-465c-81ce-1ef3a426ec32
+[05:50:18] Processando registro 325781c6-c345-4193-897f-a839467c9a01: SP146791
+[05:50:24] ERRO: Falha ao processar registro 325781c6-c345-4193-897f-a839467c9a01
+[05:50:26] Processando registro 537803d3-7df3-42bd-b865-d0d6ebae94a0: SP146791
+[05:50:32] ERRO: Falha ao processar registro 537803d3-7df3-42bd-b865-d0d6ebae94a0
+[05:50:34] Processando registro 130192b7-352b-4bf0-bc75-a82614917f30: SP228909
+[05:50:40] ERRO: Falha ao processar registro 130192b7-352b-4bf0-bc75-a82614917f30
+[05:50:40] Lote concluído: {"total": 24, "processados": 24, "sucessos": 0, "erros": 24, "tempo_inicio": 1752137254.0579906, "tempo_total": 186.66023802757263, "taxa_sucesso": 0.0}
+[05:50:40] Status tabela: {"total": 677, "pendentes": 192, "preenchidos": 434, "erros": 51, "taxa_preenchimento": 64.10635155096011}
+[05:50:40] Resultado final salvo em: Pesquisa/final_20250710_055040.json
+[05:50:41] Status tabela: {"total": 677, "pendentes": 192, "preenchidos": 434, "erros": 51, "taxa_preenchimento": 64.10635155096011}
+[05:50:43] Sistema encerrado
