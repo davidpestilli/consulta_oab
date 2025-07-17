@@ -1,0 +1,1483 @@
+{
+  "cache": {
+    "504169/SP": {
+      "numero_oab": "504169",
+      "estado": "SP",
+      "nome": "HEIDE MARIA OLIVEIRA DA ROCHA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T11:59:17.785080"
+    },
+    "201810/MG": {
+      "numero_oab": "201810",
+      "estado": "MG",
+      "nome": "JORGIANE MARTINS DA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T11:59:36.140666"
+    },
+    "354323/SP": {
+      "numero_oab": "354323",
+      "estado": "SP",
+      "nome": "CAROLINA NATALIA ARANTES DE CARVALHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T11:59:54.271783"
+    },
+    "175639/MG": {
+      "numero_oab": "175639",
+      "estado": "MG",
+      "nome": "MG BELOHORIZONTE ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:00:11.985158"
+    },
+    "198168/MG": {
+      "numero_oab": "198168",
+      "estado": "MG",
+      "nome": "DEBORA BARROS VAZ DE MELLO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:00:29.330838"
+    },
+    "180638/RJ": {
+      "numero_oab": "180638",
+      "estado": "RJ",
+      "nome": "VALERIA VICENTE DOS SANTOS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:00:47.186542"
+    },
+    "379705/SP": {
+      "numero_oab": "379705",
+      "estado": "SP",
+      "nome": "MURILO CARVALHO ESTEVES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:01:05.508591"
+    },
+    "078332/BA": {
+      "numero_oab": "078332",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:01:14.189212"
+    },
+    "447563/SP": {
+      "numero_oab": "447563",
+      "estado": "SP",
+      "nome": "HELDER MATHEUS SCORÇAFAVA AZEVEDO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:01:31.450391"
+    },
+    "025477/CE": {
+      "numero_oab": "025477",
+      "estado": "CE",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:01:39.719393"
+    },
+    "284289/SP": {
+      "numero_oab": "284289",
+      "estado": "SP",
+      "nome": "REGINA LUCIA MOREIRA DE SOUZA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:01:57.725347"
+    },
+    "506921/SP": {
+      "numero_oab": "506921",
+      "estado": "SP",
+      "nome": "GISELLE RIBEIRO DE OLIVEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:02:15.263682"
+    },
+    "437467/SP": {
+      "numero_oab": "437467",
+      "estado": "SP",
+      "nome": "SONIA VALÉRIO MANTOVANI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:02:34.904087"
+    },
+    "528561/SP": {
+      "numero_oab": "528561",
+      "estado": "SP",
+      "nome": "SP MOGIDASCRUZES SUPLEMENTAR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:02:53.748247"
+    },
+    "493468/SP": {
+      "numero_oab": "493468",
+      "estado": "SP",
+      "nome": "ANDREI ALVES POZZEBON",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:03:12.475386"
+    },
+    "530615/SP": {
+      "numero_oab": "530615",
+      "estado": "SP",
+      "nome": "SP GUARULHOS SUPLEMENTAR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:03:31.082743"
+    },
+    "032538/GO": {
+      "numero_oab": "032538",
+      "estado": "GO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:03:39.012559"
+    },
+    "496368/SP": {
+      "numero_oab": "496368",
+      "estado": "SP",
+      "nome": "JAIRO DE SOUZA FRANCO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:03:57.147758"
+    },
+    "099507/RJ": {
+      "numero_oab": "099507",
+      "estado": "RJ",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:04:05.114500"
+    },
+    "324005/SP": {
+      "numero_oab": "324005",
+      "estado": "SP",
+      "nome": "ANDIARA FAGUNDES RODRIGUES MARTINS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:04:23.813563"
+    },
+    "032080/GO": {
+      "numero_oab": "032080",
+      "estado": "GO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:04:31.600890"
+    },
+    "482710/SP": {
+      "numero_oab": "482710",
+      "estado": "SP",
+      "nome": "MAYARA MARQUES DE ALMEIDA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:04:50.511288"
+    },
+    "211768/SP": {
+      "numero_oab": "211768",
+      "estado": "SP",
+      "nome": "SP SAOBERNARDODOCAMPO ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:05:08.463433"
+    },
+    "474636/SP": {
+      "numero_oab": "474636",
+      "estado": "SP",
+      "nome": "ANDERSON DOS SANTOS BORDONALLI MAGALHÃES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:05:26.829926"
+    },
+    "530224/SP": {
+      "numero_oab": "530224",
+      "estado": "SP",
+      "nome": "RAUL ARMONIA ZAIDAN FILHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:05:45.408287"
+    },
+    "506992/SP": {
+      "numero_oab": "506992",
+      "estado": "SP",
+      "nome": "CAROLINE LIMA CARVALHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:06:04.116625"
+    },
+    "477486/SP": {
+      "numero_oab": "477486",
+      "estado": "SP",
+      "nome": "SILVIO CESAR CAMILO JUNIOR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:06:22.502406"
+    },
+    "324349/SP": {
+      "numero_oab": "324349",
+      "estado": "SP",
+      "nome": "ADRIANO RODRIGUES DE SOUZA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:06:42.469538"
+    },
+    "504494/SP": {
+      "numero_oab": "504494",
+      "estado": "SP",
+      "nome": "MURILO ROSIM LELLI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:07:00.907404"
+    },
+    "123980/RS": {
+      "numero_oab": "123980",
+      "estado": "RS",
+      "nome": "RS SARANDI ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:07:19.867233"
+    },
+    "155003/SP": {
+      "numero_oab": "155003",
+      "estado": "SP",
+      "nome": "ANDRÉ RICARDO ABICHABKI ANDREOLI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:07:38.631232"
+    },
+    "023134/SP": {
+      "numero_oab": "023134",
+      "estado": "SP",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:07:46.735797"
+    },
+    "138647/SP": {
+      "numero_oab": "138647",
+      "estado": "SP",
+      "nome": "ELIANE PEREIRA SANTOS TOCCHETO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:08:05.522801"
+    },
+    "268191/SP": {
+      "numero_oab": "268191",
+      "estado": "SP",
+      "nome": "MARIA APARECIDA HONÓRIO FAIM",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:08:24.092577"
+    },
+    "257922/SP": {
+      "numero_oab": "257922",
+      "estado": "SP",
+      "nome": "LAURA MARIA POMPILIO CORRÊA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:08:42.294023"
+    },
+    "201818/MG": {
+      "numero_oab": "201818",
+      "estado": "MG",
+      "nome": "KIAN CHARLIE SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:09:00.855644"
+    },
+    "478783/SP": {
+      "numero_oab": "478783",
+      "estado": "SP",
+      "nome": "VINICIUS ALVES DE OLIVEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:09:18.923761"
+    },
+    "033595/SC": {
+      "numero_oab": "033595",
+      "estado": "SC",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:09:26.818991"
+    },
+    "487046/SP": {
+      "numero_oab": "487046",
+      "estado": "SP",
+      "nome": "JACQUELINE BARBOSA SERAFIN",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:09:45.328273"
+    },
+    "516539/SP": {
+      "numero_oab": "516539",
+      "estado": "SP",
+      "nome": "RODRIGO FERNANDES PEREIRA LIMA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:10:04.212390"
+    },
+    "517298/SP": {
+      "numero_oab": "517298",
+      "estado": "SP",
+      "nome": "PEDRO BARBOSA DIAS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:10:21.997793"
+    },
+    "045139/BA": {
+      "numero_oab": "045139",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:10:29.785235"
+    },
+    "406805/SP": {
+      "numero_oab": "406805",
+      "estado": "SP",
+      "nome": "GUILHERME RODRIGUES DA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:10:47.955164"
+    },
+    "177282/SP": {
+      "numero_oab": "177282",
+      "estado": "SP",
+      "nome": "CARLOS ARTHUR DUARTE CAMACHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:11:06.297225"
+    },
+    "523164/SP": {
+      "numero_oab": "523164",
+      "estado": "SP",
+      "nome": "JULIO CESAR FERNANDES FERREIRA MAXIMO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:11:24.333326"
+    },
+    "471097/SP": {
+      "numero_oab": "471097",
+      "estado": "SP",
+      "nome": "RAFAEL LEOCADIO CRISTOFOLI CUNHA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:11:42.476351"
+    },
+    "194771/SP": {
+      "numero_oab": "194771",
+      "estado": "SP",
+      "nome": "SAMIR CAPELLI NAMMUR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:12:00.978721"
+    },
+    "173786/SP": {
+      "numero_oab": "173786",
+      "estado": "SP",
+      "nome": "SP SAOBERNARDODOCAMPO ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:12:18.541260"
+    },
+    "528874/SP": {
+      "numero_oab": "528874",
+      "estado": "SP",
+      "nome": "RENNAN TROMBINI CARNEIRO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:12:36.778124"
+    },
+    "008779/SC": {
+      "numero_oab": "008779",
+      "estado": "SC",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:12:44.402262"
+    },
+    "437822/SP": {
+      "numero_oab": "437822",
+      "estado": "SP",
+      "nome": "BRUNO RIBEIRO DOS SANTOS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:13:02.826054"
+    },
+    "059172/PR": {
+      "numero_oab": "059172",
+      "estado": "PR",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:13:10.579225"
+    },
+    "013819/MS": {
+      "numero_oab": "013819",
+      "estado": "MS",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:13:18.518373"
+    },
+    "128462/SP": {
+      "numero_oab": "128462",
+      "estado": "SP",
+      "nome": "ANTONIO ROGERIO BONFIM MELO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:13:36.389772"
+    },
+    "098129/RS": {
+      "numero_oab": "098129",
+      "estado": "RS",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:13:44.014725"
+    },
+    "183497/SP": {
+      "numero_oab": "183497",
+      "estado": "SP",
+      "nome": "TATIANA SAYEGH",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:14:02.575599"
+    },
+    "128086/SP": {
+      "numero_oab": "128086",
+      "estado": "SP",
+      "nome": "ALEXANDRE DE CALAIS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:14:20.980026"
+    },
+    "200938/RJ": {
+      "numero_oab": "200938",
+      "estado": "RJ",
+      "nome": "RJ LEOPOLDINA ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:14:38.658948"
+    },
+    "406678/SP": {
+      "numero_oab": "406678",
+      "estado": "SP",
+      "nome": "ALBERTO COSTACURTA BRANDI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:14:56.454028"
+    },
+    "193000/SP": {
+      "numero_oab": "193000",
+      "estado": "SP",
+      "nome": "FABIANO SANTANA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:15:15.063711"
+    },
+    "018708/PR": {
+      "numero_oab": "018708",
+      "estado": "PR",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:15:22.647522"
+    },
+    "274963/SP": {
+      "numero_oab": "274963",
+      "estado": "SP",
+      "nome": "FABIO CAMPOS CRANCHI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:15:40.544010"
+    },
+    "454533/SP": {
+      "numero_oab": "454533",
+      "estado": "SP",
+      "nome": "VANESSA CRISTINA FERREIRA LEITE",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:15:58.434185"
+    },
+    "052722/DF": {
+      "numero_oab": "052722",
+      "estado": "DF",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:16:06.384869"
+    },
+    "277274/SP": {
+      "numero_oab": "277274",
+      "estado": "SP",
+      "nome": "LUCIANE DE FREITAS SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:16:24.904365"
+    },
+    "102264/RS": {
+      "numero_oab": "102264",
+      "estado": "RS",
+      "nome": "JOSÉ LUÍS HARTMANN FILHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:16:43.381175"
+    },
+    "069856/GO": {
+      "numero_oab": "069856",
+      "estado": "GO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:16:51.209044"
+    },
+    "119216/PR": {
+      "numero_oab": "119216",
+      "estado": "PR",
+      "nome": "GESSANI CATRINA DE SIQUEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:17:09.347784"
+    },
+    "318496/SP": {
+      "numero_oab": "318496",
+      "estado": "SP",
+      "nome": "AMIR MOURAD NADDI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:17:28.008179"
+    },
+    "003450/PI": {
+      "numero_oab": "003450",
+      "estado": "PI",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:17:36.298120"
+    },
+    "249705/RJ": {
+      "numero_oab": "249705",
+      "estado": "RJ",
+      "nome": "MARIANA HAAS CARUSO RIBEIRO ALVES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:17:53.988509"
+    },
+    "346159/SP": {
+      "numero_oab": "346159",
+      "estado": "SP",
+      "nome": "DOUGLAS BARRINOVO JACÇÃO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:18:12.159951"
+    },
+    "527865/SP": {
+      "numero_oab": "527865",
+      "estado": "SP",
+      "nome": "GIOVANA SORNAS RODRIGUES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:18:30.507667"
+    },
+    "030166/PE": {
+      "numero_oab": "030166",
+      "estado": "PE",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:18:38.353748"
+    },
+    "364350/SP": {
+      "numero_oab": "364350",
+      "estado": "SP",
+      "nome": "VINÍCIUS BORGES FURLANI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:18:56.161597"
+    },
+    "023064/MS": {
+      "numero_oab": "023064",
+      "estado": "MS",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:19:03.800543"
+    },
+    "373950/SP": {
+      "numero_oab": "373950",
+      "estado": "SP",
+      "nome": "ERICA DO AMARAL MATOS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:19:22.442345"
+    },
+    "347757/SP": {
+      "numero_oab": "347757",
+      "estado": "SP",
+      "nome": "SP SAOMIGUELPAULISTA ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:19:40.634499"
+    },
+    "146556/SP": {
+      "numero_oab": "146556",
+      "estado": "SP",
+      "nome": "CEDRIC DARWIN ANDRADE DE PAULA ALVES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:19:59.000148"
+    },
+    "060158/GO": {
+      "numero_oab": "060158",
+      "estado": "GO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:20:06.809873"
+    },
+    "433721/SP": {
+      "numero_oab": "433721",
+      "estado": "SP",
+      "nome": "RODRIGO ESCORCIO RIBEIRO PIRES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:20:24.379847"
+    },
+    "409025/SP": {
+      "numero_oab": "409025",
+      "estado": "SP",
+      "nome": "DANILO YONEYAMA DE TOLEDO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:20:42.919230"
+    },
+    "527525/SP": {
+      "numero_oab": "527525",
+      "estado": "SP",
+      "nome": "CLAUDIA CAMPOS ALVES DE LIMA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:21:01.481594"
+    },
+    "036536/CE": {
+      "numero_oab": "036536",
+      "estado": "CE",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:21:09.232315"
+    },
+    "038341/BA": {
+      "numero_oab": "038341",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:21:17.020688"
+    },
+    "202655/MG": {
+      "numero_oab": "202655",
+      "estado": "MG",
+      "nome": "DARIO DA SILVA ALVES JUNIOR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:21:34.952534"
+    },
+    "345678/SP": {
+      "numero_oab": "345678",
+      "estado": "SP",
+      "nome": "ALAN GARCIA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:21:53.509833"
+    },
+    "411923/SP": {
+      "numero_oab": "411923",
+      "estado": "SP",
+      "nome": "LEONARDO MEDEIROS CARVALHO XAVIER",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T12:22:11.903858"
+    },
+    "073733/BA": {
+      "numero_oab": "073733",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T12:22:19.681822"
+    },
+    "524874/SP": {
+      "numero_oab": "524874",
+      "estado": "SP",
+      "nome": "MATHEUS CURY SAHÃO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:09:32.273743"
+    },
+    "365110/SP": {
+      "numero_oab": "365110",
+      "estado": "SP",
+      "nome": "RAFAEL SANTOS DE PAULA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:09:49.731305"
+    },
+    "492728/SP": {
+      "numero_oab": "492728",
+      "estado": "SP",
+      "nome": "GEREMIAS DE LIMA JUNIOR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:10:07.133788"
+    },
+    "179322/MG": {
+      "numero_oab": "179322",
+      "estado": "MG",
+      "nome": "MARILENE NETTO DE CARVALHO ALEIXO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:10:29.175596"
+    },
+    "211264/SP": {
+      "numero_oab": "211264",
+      "estado": "SP",
+      "nome": "MAURO SCHEER LUIS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:10:48.454261"
+    },
+    "113228/RS": {
+      "numero_oab": "113228",
+      "estado": "RS",
+      "nome": "JOCASTA ELICKER MELO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:11:05.831509"
+    },
+    "037082/BA": {
+      "numero_oab": "037082",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:11:13.568835"
+    },
+    "508805/SP": {
+      "numero_oab": "508805",
+      "estado": "SP",
+      "nome": "ARISTETELES WALLAS ALEIXO DE VASCONCELOS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:11:31.067324"
+    },
+    "037799/BA": {
+      "numero_oab": "037799",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:11:38.601330"
+    },
+    "117089/PR": {
+      "numero_oab": "117089",
+      "estado": "PR",
+      "nome": "ANNA VITÓRIA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:11:56.344605"
+    },
+    "176407/SP": {
+      "numero_oab": "176407",
+      "estado": "SP",
+      "nome": "ATHOS ALKMIN FERREIRA DE PÁDUA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:12:13.694033"
+    },
+    "047091/SC": {
+      "numero_oab": "047091",
+      "estado": "SC",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:12:21.391291"
+    },
+    "390303/SP": {
+      "numero_oab": "390303",
+      "estado": "SP",
+      "nome": "LORENA LIEPMANN PEREYRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:12:38.521984"
+    },
+    "472867/SP": {
+      "numero_oab": "472867",
+      "estado": "SP",
+      "nome": "FLORA DE OLIVEIRA NEGRELLI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:12:56.344159"
+    },
+    "454379/SP": {
+      "numero_oab": "454379",
+      "estado": "SP",
+      "nome": "NATALY MARTINS DEMURA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:13:14.712009"
+    },
+    "120012/RS": {
+      "numero_oab": "120012",
+      "estado": "RS",
+      "nome": "PAULA DE BITENCOURT CONRAD",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:13:33.410001"
+    },
+    "478388/SP": {
+      "numero_oab": "478388",
+      "estado": "SP",
+      "nome": "LUAN BRANDÃO LEITE",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:13:51.432585"
+    },
+    "374633/SP": {
+      "numero_oab": "374633",
+      "estado": "SP",
+      "nome": "MARCIO MARQUES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:14:14.317457"
+    },
+    "521313/SP": {
+      "numero_oab": "521313",
+      "estado": "SP",
+      "nome": "ISABELLA CARVALHO RAMALHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:14:33.040409"
+    },
+    "433292/SP": {
+      "numero_oab": "433292",
+      "estado": "SP",
+      "nome": "ADRIANA DA SILVA TEIXEIRA CAVALCANTE",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:14:50.350928"
+    },
+    "424087/SP": {
+      "numero_oab": "424087",
+      "estado": "SP",
+      "nome": "ROGERIO LEOPOLDINO DA SILVA FILHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:15:08.136484"
+    },
+    "150864/MG": {
+      "numero_oab": "150864",
+      "estado": "MG",
+      "nome": "EDUARDO HENRIQUE SILVEIRA FERREIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:15:26.116634"
+    },
+    "069426/BA": {
+      "numero_oab": "069426",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:15:35.817490"
+    },
+    "102402/PR": {
+      "numero_oab": "102402",
+      "estado": "PR",
+      "nome": "WILLIAN MENDES VIEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:15:53.662524"
+    },
+    "522623/SP": {
+      "numero_oab": "522623",
+      "estado": "SP",
+      "nome": "ISABELA ESTANISLAU DE ASSIS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:16:12.275276"
+    },
+    "148939/SP": {
+      "numero_oab": "148939",
+      "estado": "SP",
+      "nome": "SP BERTIOGA ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:16:30.761617"
+    },
+    "163343/MG": {
+      "numero_oab": "163343",
+      "estado": "MG",
+      "nome": "ANA CAROLINA RIBEIRO MEIRELES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:16:48.403075"
+    },
+    "424048/SP": {
+      "numero_oab": "424048",
+      "estado": "SP",
+      "nome": "PABLO ALMEIDA CHAGAS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:17:06.274579"
+    },
+    "495919/SP": {
+      "numero_oab": "495919",
+      "estado": "SP",
+      "nome": "GABRIEL SANTOS DURAES",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:17:24.123072"
+    },
+    "471168/SP": {
+      "numero_oab": "471168",
+      "estado": "SP",
+      "nome": "SP VILAPRUDENTE ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:17:42.154137"
+    },
+    "488428/SP": {
+      "numero_oab": "488428",
+      "estado": "SP",
+      "nome": "ALIFER DE ALMEIDA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:17:59.824155"
+    },
+    "090268/PR": {
+      "numero_oab": "090268",
+      "estado": "PR",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:18:07.354943"
+    },
+    "484856/SP": {
+      "numero_oab": "484856",
+      "estado": "SP",
+      "nome": "BRUNA GUEDES ARAUJO E SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:18:24.685967"
+    },
+    "266773/SP": {
+      "numero_oab": "266773",
+      "estado": "SP",
+      "nome": "JOSE PAIXÃO DE SOUZA JUNIOR",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:18:42.702112"
+    },
+    "090650/SP": {
+      "numero_oab": "090650",
+      "estado": "SP",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:18:50.341429"
+    },
+    "427051/SP": {
+      "numero_oab": "427051",
+      "estado": "SP",
+      "nome": "NATHÁLIA TORRES MORTATTI",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:19:07.992247"
+    },
+    "533502/SP": {
+      "numero_oab": "533502",
+      "estado": "SP",
+      "nome": "JOÃO VITOR ARAÚJO GOMES BANDEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:19:25.574743"
+    },
+    "011000/RO": {
+      "numero_oab": "011000",
+      "estado": "RO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:19:33.300655"
+    },
+    "136393/MG": {
+      "numero_oab": "136393",
+      "estado": "MG",
+      "nome": "MARCELO CANEDO DOS SANTOS SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:19:51.353339"
+    },
+    "396403/SP": {
+      "numero_oab": "396403",
+      "estado": "SP",
+      "nome": "CAMILA DE LIMA VICENTE",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:20:09.154012"
+    },
+    "143393/SP": {
+      "numero_oab": "143393",
+      "estado": "SP",
+      "nome": "CARLOS FERNANDO DE OLIVEIRA MORENA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:20:27.181781"
+    },
+    "403247/SP": {
+      "numero_oab": "403247",
+      "estado": "SP",
+      "nome": "THIAGO COSTA CARVALHEIRO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:20:45.191244"
+    },
+    "014000/GO": {
+      "numero_oab": "014000",
+      "estado": "GO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:20:52.806934"
+    },
+    "235151/SP": {
+      "numero_oab": "235151",
+      "estado": "SP",
+      "nome": "RENATO FARORO PAIROL",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:21:11.044256"
+    },
+    "179771/MG": {
+      "numero_oab": "179771",
+      "estado": "MG",
+      "nome": "KERCLES ROMANELLE DA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:21:30.034345"
+    },
+    "139332/MG": {
+      "numero_oab": "139332",
+      "estado": "MG",
+      "nome": "BELISARIO FERREIRA DE GODOI NETO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:21:48.025920"
+    },
+    "276881/SP": {
+      "numero_oab": "276881",
+      "estado": "SP",
+      "nome": "CELIA MORENO DA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:22:05.832349"
+    },
+    "198843/RJ": {
+      "numero_oab": "198843",
+      "estado": "RJ",
+      "nome": "CRISTINA DE OLIVEIRA NASCIMENTO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:22:24.209855"
+    },
+    "008902/RO": {
+      "numero_oab": "008902",
+      "estado": "RO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:22:31.947529"
+    },
+    "034715/GO": {
+      "numero_oab": "034715",
+      "estado": "GO",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:22:42.127956"
+    },
+    "176789/MG": {
+      "numero_oab": "176789",
+      "estado": "MG",
+      "nome": "ROBERTO NASSIF PRIETO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:23:00.750403"
+    },
+    "314019/SP": {
+      "numero_oab": "314019",
+      "estado": "SP",
+      "nome": "PAULO RABECHINI AMARAL",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:23:18.348630"
+    },
+    "261062/SP": {
+      "numero_oab": "261062",
+      "estado": "SP",
+      "nome": "LEANDRO ANGELO SILVA LIMA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:23:36.030146"
+    },
+    "497500/SP": {
+      "numero_oab": "497500",
+      "estado": "SP",
+      "nome": "AGNALDO ALVES DE SIQUEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:23:55.917687"
+    },
+    "148805/SP": {
+      "numero_oab": "148805",
+      "estado": "SP",
+      "nome": "ROBERTO IZIDORIO PEREIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:24:13.976780"
+    },
+    "213803/MG": {
+      "numero_oab": "213803",
+      "estado": "MG",
+      "nome": "MATHEUS ALMEIDA MARREGA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:24:32.041357"
+    },
+    "239089/RJ": {
+      "numero_oab": "239089",
+      "estado": "RJ",
+      "nome": "LUCAS GABRIEL LIMA DE SOUZA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:24:49.764986"
+    },
+    "227731/SP": {
+      "numero_oab": "227731",
+      "estado": "SP",
+      "nome": "THIAGO DE FREITAS LINS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:25:08.155275"
+    },
+    "362860/SP": {
+      "numero_oab": "362860",
+      "estado": "SP",
+      "nome": "GUSTAVO BEZERRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:25:28.569863"
+    },
+    "365965/SP": {
+      "numero_oab": "365965",
+      "estado": "SP",
+      "nome": "VIVIANE LOPES DIB",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:25:46.086948"
+    },
+    "376055/SP": {
+      "numero_oab": "376055",
+      "estado": "SP",
+      "nome": "GIORGIO BERTACHINI D ANGELO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:26:03.531454"
+    },
+    "407052/SP": {
+      "numero_oab": "407052",
+      "estado": "SP",
+      "nome": "THIAGO DOS SANTOS SOUZA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:26:21.033667"
+    },
+    "515854/SP": {
+      "numero_oab": "515854",
+      "estado": "SP",
+      "nome": "MATHEUS BOTREL CONSENTINO FERREIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:26:38.981054"
+    },
+    "527480/SP": {
+      "numero_oab": "527480",
+      "estado": "SP",
+      "nome": "CLAUDIO PACHECO CAMPELO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:26:56.992213"
+    },
+    "497883/SP": {
+      "numero_oab": "497883",
+      "estado": "SP",
+      "nome": "VICTOR DANIEL COSTA DE FREITAS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:27:14.378852"
+    },
+    "388814/SP": {
+      "numero_oab": "388814",
+      "estado": "SP",
+      "nome": "EVANDRO LUIS REZENDE FORTE",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:27:31.770566"
+    },
+    "337499/SP": {
+      "numero_oab": "337499",
+      "estado": "SP",
+      "nome": "WELINGTON ZAMPERLIN BARBOSA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:27:50.412332"
+    },
+    "074632/BA": {
+      "numero_oab": "074632",
+      "estado": "BA",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:27:58.484910"
+    },
+    "325863/SP": {
+      "numero_oab": "325863",
+      "estado": "SP",
+      "nome": "SP SAOBERNARDODOCAMPO ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:28:17.573783"
+    },
+    "352636/SP": {
+      "numero_oab": "352636",
+      "estado": "SP",
+      "nome": "NATHAN DIAS VON SOHSTEN REZENDE",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T15:28:36.086327"
+    },
+    "057616/SP": {
+      "numero_oab": "057616",
+      "estado": "SP",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T15:28:43.613071"
+    },
+    "079168/PR": {
+      "numero_oab": "079168",
+      "estado": "PR",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T16:09:17.721979"
+    },
+    "009042/RN": {
+      "numero_oab": "009042",
+      "estado": "RN",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T16:09:29.507385"
+    },
+    "502845/SP": {
+      "numero_oab": "502845",
+      "estado": "SP",
+      "nome": "ANDRE OLIVEIRA BARROS",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:09:46.765027"
+    },
+    "410339/SP": {
+      "numero_oab": "410339",
+      "estado": "SP",
+      "nome": "LUCAS SANTIAGO DE CARVALHO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:10:03.498526"
+    },
+    "217123/SP": {
+      "numero_oab": "217123",
+      "estado": "SP",
+      "nome": "CAROLINA FORTES SIMÕES DETTER",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:10:20.922992"
+    },
+    "192031/MG": {
+      "numero_oab": "192031",
+      "estado": "MG",
+      "nome": "MG BELOHORIZONTE ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:10:38.177446"
+    },
+    "323971/SP": {
+      "numero_oab": "323971",
+      "estado": "SP",
+      "nome": "ANDRE LUIS DIAS SOUTELINO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:10:55.259517"
+    },
+    "394813/SP": {
+      "numero_oab": "394813",
+      "estado": "SP",
+      "nome": "FABIO CELSO BORNIA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:11:15.079315"
+    },
+    "246793/SP": {
+      "numero_oab": "246793",
+      "estado": "SP",
+      "nome": "RENATA BASILE NETTO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:11:32.438810"
+    },
+    "355557/SP": {
+      "numero_oab": "355557",
+      "estado": "SP",
+      "nome": "MATHEUS DE OLIVEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:11:49.691665"
+    },
+    "023660/PI": {
+      "numero_oab": "023660",
+      "estado": "PI",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T16:11:57.241279"
+    },
+    "524873/SP": {
+      "numero_oab": "524873",
+      "estado": "SP",
+      "nome": "ALLEF BATISTA OLIVEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:12:14.435725"
+    },
+    "069107/RS": {
+      "numero_oab": "069107",
+      "estado": "RS",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T16:12:21.930139"
+    },
+    "389419/SP": {
+      "numero_oab": "389419",
+      "estado": "SP",
+      "nome": "FELIPE TEIXEIRA VIEIRA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:12:38.900999"
+    },
+    "424174/SP": {
+      "numero_oab": "424174",
+      "estado": "SP",
+      "nome": "SP PINHEIROS ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:12:56.440875"
+    },
+    "466790/SP": {
+      "numero_oab": "466790",
+      "estado": "SP",
+      "nome": "SP SANTOAMARO ADVOGADA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:13:13.560946"
+    },
+    "134741/RS": {
+      "numero_oab": "134741",
+      "estado": "RS",
+      "nome": "LUCIANO BUENO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:13:30.626460"
+    },
+    "463528/SP": {
+      "numero_oab": "463528",
+      "estado": "SP",
+      "nome": "RODOLPHO PANDOLFI DAMICO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:13:47.716431"
+    },
+    "372546/SP": {
+      "numero_oab": "372546",
+      "estado": "SP",
+      "nome": "VAUDETE PEREIRA DA SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:14:04.748971"
+    },
+    "021386/MS": {
+      "numero_oab": "021386",
+      "estado": "MS",
+      "nome": null,
+      "erro": "Inscrição não encontrada",
+      "sucesso": false,
+      "timestamp": "2025-07-16T16:14:12.220121"
+    },
+    "503627/SP": {
+      "numero_oab": "503627",
+      "estado": "SP",
+      "nome": "ISADORA RIBEIRO PRADO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:14:31.752657"
+    },
+    "331132/SP": {
+      "numero_oab": "331132",
+      "estado": "SP",
+      "nome": "RENAN SCAPIM ARCARO",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:14:51.383586"
+    },
+    "154755/MG": {
+      "numero_oab": "154755",
+      "estado": "MG",
+      "nome": "JOAO OTAVIO JUSCELINO SILVA",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:15:08.559111"
+    },
+    "312667/SP": {
+      "numero_oab": "312667",
+      "estado": "SP",
+      "nome": "RAFAEL BRATFICH GOULART",
+      "erro": null,
+      "sucesso": true,
+      "timestamp": "2025-07-16T16:15:28.053678"
+    }
+  },
+  "estatisticas": {
+    "consultas_cache": 21,
+    "consultas_novas": 339,
+    "cache_hits": 21,
+    "cache_misses": 341,
+    "duplicatas_evitadas": 0
+  }
+}
