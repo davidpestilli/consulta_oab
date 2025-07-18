@@ -572,6 +572,18 @@ class OABSupabaseIntegrator:
             estado = possivel_estado
             numero = resto
             
+            # REGRA ESPECIAL: Remover zero inicial se existir
+            if numero.startswith('0') and len(numero) > 1:
+                numero_original = numero
+                numero = numero.lstrip('0')
+                
+                # Verificar se restou algum número após remover zeros
+                if not numero:
+                    print(f"⚠️ Número inválido (só zeros): {usuarios_str}")
+                    return None, None
+                
+                print(f"🔧 Zero inicial removido: {numero_original} → {numero}")
+            
             return numero, estado
             
         except Exception as e:
@@ -625,6 +637,34 @@ class OABSupabaseIntegrator:
         
         return dict(grupos)
     
+    def contem_palavra_advogado(self, nome: str) -> bool:
+        """
+        Verifica se o nome contém a palavra 'advogado' ou suas variações
+        
+        Args:
+            nome: Nome a ser verificado
+            
+        Returns:
+            True se contém palavra 'advogado' ou variações, False caso contrário
+        """
+        if not nome:
+            return False
+        
+        nome_upper = nome.upper()
+        
+        # Variações da palavra advogado
+        variacoes_advogado = [
+            'ADVOGADO', 'ADVOGADA', 'ADVOGADOS', 'ADVOGADAS',
+            'ADV.', 'ADV', 'ADVOG.', 'ADVOG',
+            'ADVOGAD', 'ADVOCAC', 'ADVOCACIA'
+        ]
+        
+        for variacao in variacoes_advogado:
+            if variacao in nome_upper:
+                return True
+        
+        return False
+    
     def processar_oab_unica(self, numero_oab: str, estado: str) -> ResultadoOAB:
         """
         NOVO: Processa uma OAB única, usando cache se disponível
@@ -657,24 +697,60 @@ class OABSupabaseIntegrator:
         # 2. Cache miss - fazer consulta real
         print(f"🔍 Consultando OAB {numero_oab}/{estado} (nova consulta)")
         
-        try:
-            resultado = self.bot_oab.consultar_inscricao(numero_oab, estado)
+        max_tentativas = 3  # Máximo de tentativas para refazer a consulta
+        tentativa_atual = 0
+        
+        while tentativa_atual < max_tentativas:
+            tentativa_atual += 1
             
-            # 3. Salvar no cache
-            self.cache.salvar_cache(numero_oab, estado, resultado)
-            
-            return resultado
-            
-        except Exception as e:
-            # Criar resultado de erro
-            resultado = ResultadoOAB(inscricao=numero_oab, estado=estado)
-            resultado.erro = f"Erro na consulta: {str(e)}"
-            resultado.sucesso = False
-            
-            # Salvar erro no cache também
-            self.cache.salvar_cache(numero_oab, estado, resultado)
-            
-            return resultado
+            try:
+                if tentativa_atual > 1:
+                    print(f"🔄 Tentativa {tentativa_atual}/{max_tentativas} - Refazendo consulta...")
+                    time.sleep(1)  # Pausa entre tentativas
+                
+                resultado = self.bot_oab.consultar_inscricao(numero_oab, estado)
+                
+                # Verificar se o nome contém palavra "advogado"
+                if resultado.sucesso and resultado.nome:
+                    if self.contem_palavra_advogado(resultado.nome):
+                        print(f"⚠️ Nome inválido detectado (contém 'advogado'): {resultado.nome}")
+                        
+                        if tentativa_atual < max_tentativas:
+                            print(f"🔄 Refazendo consulta - tentativa {tentativa_atual + 1}")
+                            continue  # Refazer a consulta
+                        else:
+                            print(f"❌ Máximo de tentativas atingido. Marcando como erro.")
+                            resultado.sucesso = False
+                            resultado.erro = f"Nome inválido após {max_tentativas} tentativas: {resultado.nome}"
+                    else:
+                        print(f"✅ Nome válido extraído: {resultado.nome}")
+                
+                # 3. Salvar no cache (tanto sucesso quanto erro)
+                self.cache.salvar_cache(numero_oab, estado, resultado)
+                
+                return resultado
+                
+            except Exception as e:
+                print(f"❌ Erro na tentativa {tentativa_atual}: {e}")
+                
+                if tentativa_atual >= max_tentativas:
+                    # Criar resultado de erro após esgotar tentativas
+                    resultado = ResultadoOAB(inscricao=numero_oab, estado=estado)
+                    resultado.erro = f"Erro na consulta após {max_tentativas} tentativas: {str(e)}"
+                    resultado.sucesso = False
+                    
+                    # Salvar erro no cache também
+                    self.cache.salvar_cache(numero_oab, estado, resultado)
+                    
+                    return resultado
+                else:
+                    continue  # Tentar novamente
+        
+        # Fallback (não deveria chegar aqui)
+        resultado = ResultadoOAB(inscricao=numero_oab, estado=estado)
+        resultado.erro = "Erro inesperado no processamento"
+        resultado.sucesso = False
+        return resultado
     
     def processar_grupo_registros(self, oab_key: str, registros: List[RegistroErro]) -> bool:
         """
@@ -843,7 +919,8 @@ class OABSupabaseIntegrator:
             len(nome) <= 100 and 
             ' ' in nome and 
             not any(char.isdigit() for char in nome) and
-            not any(palavra in nome.upper() for palavra in ['ERRO', 'INVALID', 'NULL', 'NONE'])):
+            not any(palavra in nome.upper() for palavra in ['ERRO', 'INVALID', 'NULL', 'NONE']) and
+            not self.contem_palavra_advogado(nome)):  # NOVA VALIDAÇÃO: Não deve conter "advogado"
             return nome
         
         return ""
