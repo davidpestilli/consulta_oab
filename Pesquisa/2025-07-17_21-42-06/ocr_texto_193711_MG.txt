@@ -1,0 +1,14 @@
+TEXTO EXTRAÍDO VIA OCR:
+==================================================
+ANAPAULACOUTO l : InscrioSeccionalSubseo b 193711 MG CAMBUI ADVOGADA EnderecoProfissional RUASAOBENEDITO343.SAOBENEDITO CAMBUI MG 37600000 TelefoneProfissional Noinformado :SITUACAOREGULAR:
+
+==================================================
+DADOS PROCESSADOS:
+Nome: MG CAMBUI ADVOGADA
+Tipo: ADVOGADA
+Situação: SITUAÇÃO REGULAR
+Telefone: 
+Endereço: Seccional: SU | Profissional RUASAOBENEDITO343.SAOBENEDITO CAMBUI MG 37600-000
+Email: 
+Carteira: 193711
+Data Inscrição: 
